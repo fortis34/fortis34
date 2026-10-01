@@ -6,8 +6,8 @@ Emrullah Çavur/22 Yaşında/İstanbul'da Yaşıyor/Kastamonu'da Okudu
 
 Eğitim Bilgisi
 
-1 Yıl İngilizce hazırlık
-2 yıl Bilgisayar Programcılığı
+1 Yıl İngilizce hazırlık/2 yıl Bilgisayar Programcılığı
+
 
 
 İş Deneyimi
