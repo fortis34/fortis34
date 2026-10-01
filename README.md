@@ -19,11 +19,7 @@ Tecrübesiz
 
 Bildiği Programlama Dilleri
 
-Html
-Css
-C
-C#
-Sql
+Html ,Css ,C ,C# ,Sql
 
 
 Sektör Beklentisi
