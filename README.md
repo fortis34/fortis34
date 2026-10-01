@@ -1,9 +1,7 @@
 KİŞİ BİLGİSİ
 
-Emrullah Çavur
-22 Yaşında
-İstanbul'da Yaşıyor
-Kastamonu'da Okudu
+Emrullah Çavur/22 Yaşında/İstanbul'da Yaşıyor/Kastamonu'da Okudu
+
 
 
 Eğitim Bilgisi
