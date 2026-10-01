@@ -9,7 +9,7 @@ Eğitim Bilgisi
 1 Yıl İngilizce hazırlık/2 yıl Bilgisayar Programcılığı
 
 
-Bildiği Programlama Dilleri
+Programlama Dilleri
 
 Html ,Css ,C ,C# ,Sql
 
